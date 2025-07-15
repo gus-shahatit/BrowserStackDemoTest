@@ -14,8 +14,8 @@ platforms:
     browserName: samsung
     deviceOrientation: portrait
 browserstackLocal: true
-buildName: gus-bstack
-projectName: gus-bstack-proj
+buildName: Test-Suite-Submission
+projectName: gus-bstack-submission
 CUSTOM_TAG_1: "You can set a custom Build Tag here"
 # Use CUSTOM_TAG_<N> and set more build tags as you need.
 debug: true
